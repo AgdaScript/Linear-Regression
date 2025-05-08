@@ -22,14 +22,14 @@ $$
 </div>
 
 > **Exemple**  
-> we want to predict the price of an ice cream based on the temperature of the day (x). The hotter the day, the greater the chance of selling at a higher price. A linear equation could be:
->$$
->y = 2x + 1
->$$
-> If the temperature is 30°C, the estimated price of the ice cream would be:
- >$$
->y = 2 \times 30 + 1 = 61
->$$
+we want to predict the price of an ice cream based on the temperature of the day (x). The hotter the day, the greater the chance of selling at a higher price. A linear equation could be:
+$$
+y = 2x + 1
+$$
+ If the temperature is 30°C, the estimated price of the ice cream would be:
+$$
+y = 2 \times 30 + 1 = 61
+$$
 
 ## How is it applied in Artificial Intelligence?
 
