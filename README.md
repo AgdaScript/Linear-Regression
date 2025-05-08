@@ -23,6 +23,7 @@ $$
 
 > **Exemple**  
 we want to predict the price of an ice cream based on the temperature of the day (x). The hotter the day, the greater the chance of selling at a higher price. A linear equation could be:
+
 $$
 y = 2x + 1
 $$
