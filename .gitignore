@@ -1,0 +1,21 @@
+# Ambientes virtuais
+venv/
+env/
+.venv/
+pipenv/
+__pycache__/
+
+# Arquivos de configuração sensíveis
+*.env
+*.secret
+
+# Arquivos gerados pelo Python
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+# Logs e databases
+*.log
+*.sqlite
